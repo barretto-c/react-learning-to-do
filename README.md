@@ -1,4 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# TODO React App
+
+# Introduction
+This is an basic app for capturing TODOs. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). \* created using `create-react-app`
+
+This application leverages React 16.13 and uses React hooks.
+
+## Prerequisites to run
+
+1. **Install Node - https://nodejs.org/en/ (I used version 12.18.1).
+
+2. **Install Yarn - https://classic.yarnpkg.com/ (I used version 1.21.1).
+
+3. **Clone the repository
+
+cd to the directory where you clone the repository,  ```run npm install ```.
 
 ## Available Scripts
 
