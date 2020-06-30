@@ -1,9 +1,11 @@
 # TODO React App
+-This application leverages React 16.13 and uses React hooks.
+-Includes GitHub Action integration which performs Continuous Integration with units test.
+
 
 # Introduction
 This is an basic app for capturing TODOs. This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). \* created using `create-react-app`
 
-This application leverages React 16.13 and uses React hooks.
 
 ## Prerequisites to run
 
