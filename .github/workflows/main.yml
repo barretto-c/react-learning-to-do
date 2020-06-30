@@ -1,6 +1,6 @@
 # Basic Workflow for React App
 
-name: CI Basics
+name: CI Basics for React Application
 
 # Controls when the action will run. 
 # Triggers the workflow on push or pull request
@@ -27,3 +27,9 @@ jobs:
     # Runs a single command using the runners shell
     - name: Run a one-line script
       run: echo Hello, world!
+
+    - uses: actions/setup-node@v1
+      with:
+        node-version: 12
+    - run: npm ci
+    - run: npm test      
