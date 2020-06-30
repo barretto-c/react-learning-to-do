@@ -7,13 +7,13 @@ This application leverages React 16.13 and uses React hooks.
 
 ## Prerequisites to run
 
-1. **Install Node - https://nodejs.org/en/ (I used version 12.18.1).
+1. Install Node - https://nodejs.org/en/ (I used version 12.18.1).
 
-2. **Install Yarn - https://classic.yarnpkg.com/ (I used version 1.21.1).
+2. Install Yarn - https://classic.yarnpkg.com/ (I used version 1.21.1).
 
-3. **Clone the repository
+3. Clone the repository
 
-cd to the directory where you clone the repository,  ```run npm install ```.
+4. cd to the directory where you clone the repository,  ```run npm install ```.
 
 ## Available Scripts
 
